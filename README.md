@@ -1,2 +1,2 @@
 # WaterSort
-Implementation of BFS algorithm to find the solution for Water Sort game
+Implementation of the BFS algorithm to find the solution for the Water Sort game.
